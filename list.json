@@ -1,0 +1,36 @@
+{
+"lista herramientas":{
+  "herramienta":[
+    {
+      "nombre": "martillo",
+      "descripcion": "clava clavos",
+      "reparaciones": 1,
+      "años de garantia": 2
+    },
+    {
+      "nombre": "alicates",
+      "descripcion": "aprieta",
+      "reparaciones": 3,
+      "años de garantia": 2
+    },
+    {
+      "nombre": "sierra",
+      "descripcion": "corta",
+      "reparaciones": 2,
+      "años de garantia": 1
+    },
+    {
+      "nombre": "destornillador",
+      "descripcion": "aprieta y afloja",
+      "reparaciones": 0,
+      "años de garantia": 2
+    },
+    {
+      "nombre": "tenazas",
+      "descripcion": "lo mismo que el alicate",
+      "reparaciones": 0,
+      "años de garantia": 2
+    }
+  ]
+}
+}
